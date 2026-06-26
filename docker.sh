@@ -3,7 +3,7 @@
 # Variables
 IMAGE_NAME=my-nginx
 CONTAINER_NAME=my-nginx-container
-HOST_PORT=8080
+HOST_PORT=28080
 CONTAINER_PORT=80
 
 echo "Building Docker image..."
